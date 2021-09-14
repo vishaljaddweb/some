@@ -1,21 +1,21 @@
 # some
 
 
-#There are 3 task of 28th July 2021
+28/07/2021
 1)Create one directory and make 3 .js files and make sure you can run all files just by specifying filename from browser using npm.
 2)Take two parameters from terminal and make sum and return the same.
 3)Try to take two textboxes and get those values and make sum and return the same
 
 
 
-#There are 4 task of 29th July 2021
+29/07/2021
 1)Conversion of text file into json
 2)Mail-Box using node_mailer
 3)Apply external css using express
 4)Remove all vowels from a text file
 
 
-#There is only one task of 03rd August 2021
+03/08/2021
 1)Do the following task in NODE
 Make a form and validate the following fields in a form
 Name : Only alphabets should be allowed
@@ -31,7 +31,7 @@ with file upload
 
 
 
-#There is only one task of 04th August 2021
+04/08/2021
 1)Take some student information from user
 -id
 -name
@@ -40,7 +40,7 @@ After taking 1st student’s data, ask the user if you want to continue entering
 using prompt
 
 
-#There is only one task of 05th August 2021
+05/08/2021
 1)Take some student information from user
 -id
 -name
@@ -49,24 +49,46 @@ After taking 1st student’s data, ask the user if you want to continue entering
 using terminal
 
 
-#There is only one task of 09th August 2021
+09/08/2021
 Create one form including following fields
 No. of information to be entered : textbox
 Id : auto increment
 Name : textbox
 Email : email type
 Mobile : number
-
 Take as many inputs as user entered in the first box, after taking 1st data, write those data into the file and do the same for remaining number of data. Once you store all data into the file, open that file in read mode and print data into the JSON format.
 
 
-#There is only one task of 16th August 2021
+
+16/08/2021
 Store Entered form data into any of the database using node and ts
 
 
-#There is only one task of 25th August 2021
+
+25/08/2021
 React Validation Form
 
 
-#Task of 31st August 2021
+
+31/08/2021
 React Router Hooks
+
+
+
+01/09/2021
+Redux Task
+
+
+
+03/09/2021
+Create Slice and Configure Store
+
+
+
+06/09/2021
+Refs in React
+
+
+
+09/09/2021
+Crud Application
